@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "uk.co.ianadie.fcmtest",
+    "sha256_cert_fingerprints":
+    ["94:8B:A1:78:53:26:ED:62:6D:01:65:27:CB:76:23:82:64:A6:60:0E:D8:B5:DB:C6:85:A4:0C:8A:11:B2:87:7E"]
+  }
+}]
